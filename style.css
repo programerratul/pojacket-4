@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #2D2D35;
+}
+.navbar{
+    background-color: #2D2D35;
+    font-weight: bold;
+}
+span{
+    color: #FC5A18;
+}
+nav{
+    background-color: #2D2D35;
+    border-bottom: 2px solid lightblue;
+}
+#nav-icon a{
+    color: white;
+    margin-left: 10px;
+    font-size: 25px;
+}
+.navbar-toggler{
+    background-color: white;
+}
+/* first section  */
+.prodacket-card:hover{
+    border: 2px solid lightskyblue;
+    border-radius: 3px;
+}
+/* blogs section  */
+#blogs{
+    background-color: #0E162B;
+    border-radius: 3px;
+}
+/* form section  */
+::placeholder{
+    font-style: italic;
+}
+.priz{
+    width: 300px;
+    margin: auto;
+    background-color: #0E162B;
+}
+#footer-content{
+    background-color: #192904;
+}
